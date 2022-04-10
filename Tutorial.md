@@ -29,7 +29,7 @@
 - Enter "java" to run the java file
 
 ## Setting an SSH Key
-![StepFive](5.png)
+![StepFive](keygen.png)
 - Enter "ssh-keygen"
 - If on Windows, run "ssh-keygen -t ed25519"
 - Enter in the file directory to save the SSH keys
@@ -39,5 +39,6 @@
 - Run "scp /Users/<user-name>/.ssh/id_rsa.pub cs15lsp22zz@ieng6.ucsd.edu:~/.ssh/authorized_keys", where "zz" is the account code and "user-name" is your username.
 
 ## Optimizing Remote Running
+![StepSix](5.png)
 - Log in using ssh, but add "ls" at the end of the command
 - This will cut down log-in time by not using a key or a passphrase.
