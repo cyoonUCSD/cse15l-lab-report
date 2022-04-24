@@ -4,8 +4,8 @@
 
 ### Commit Message
 ![ChangeOne](change1.png)
-### Error
-![Test with Issue](error1.png)
+### File with Error
+![Test with Issue](test_file5.png)
 
 ### Symptom
 ![Error](symptom1.png)
@@ -22,9 +22,9 @@ In addition to this, this version of the code also accounts for potential to ski
 ### Commit Message
 ![Image](change2.png)
 
-### Error
+### File with Error
 
-![Test With Issue](error2.png)
+![Test With Issue](test_file8.png)
 
 ### Symptom/Error
 ![Error](symptom2.png)
