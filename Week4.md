@@ -3,13 +3,12 @@
 ## Code Change #1
 
 ### Commit Message
-![ChangeOne](change1.PNG)
-
+![ChangeOne](change1.png)
 ### Error
-![Test with Issue](error1.PNG)
+![Test with Issue](error1.png)
 
 ### Symptom
-![Error](symptom1.PNG)
+![Error](symptom1.png)
 
 
 ### Explanation
@@ -21,14 +20,14 @@ In addition to this, this version of the code also accounts for potential to ski
 ## Code Change #2
 
 ### Commit Message
-![Image](change2.PNG)
+![Image](change2.png)
 
 ### Error
 
 ![Test With Issue](error2.png)
 
 ### Symptom/Error
-![Error](symptom2.PNG)
+![Error](symptom2.png)
 
 ### Explanation
  The parser searches for the next closed parenthesis or bracket. When the file contains broken links, the parser will continue to serach infinitely for the next item. To fix this issue, if the parser was unable to find an opening bracket, then it would break and stop the program.
