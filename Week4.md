@@ -5,10 +5,10 @@
 ### Commit Message
 ![ChangeOne](change1.png)
 ### File with Error
-![Test with Issue](test_file5.png)
+![Test with Issue](test-file5.md)
 
 ### Symptom
-![Error](symptom1.png)
+![Error](error1.png)
 
 
 ### Explanation
@@ -24,10 +24,10 @@ In addition to this, this version of the code also accounts for potential to ski
 
 ### File with Error
 
-![Test With Issue](test_file8.png)
+![Test With Issue](test-file8.md)
 
 ### Symptom/Error
-![Error](symptom2.png)
+![Error](error2.png)
 
 ### Explanation
  The parser searches for the next closed parenthesis or bracket. When the file contains broken links, the parser will continue to serach infinitely for the next item. To fix this issue, if the parser was unable to find an opening bracket, then it would break and stop the program.
