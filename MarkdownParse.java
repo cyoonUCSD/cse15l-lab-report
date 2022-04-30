@@ -40,20 +40,6 @@ public class MarkdownParse {
             {
                 currentIndex = closeBracket + 1;
             }
-            
-            if (openParen - 1 == closeBracket) {
-                int closeParen = markdown.indexOf(")", openParen);
-                String substring = markdown.substring(openParen + 1, closeParen);
-                if (substring.length() < 2) {
-                    currentIndex = closeParen + 1;
-                } else {
-                    toReturn.add(markdown.substring(openParen + 1, closeParen));
-                    currentIndex = closeParen + 1;
-                }
-            } 
-            else {
-                currentIndex = closeBracket + 1;
-            }
 
     
         }
