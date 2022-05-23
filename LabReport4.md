@@ -39,15 +39,21 @@
 ![FirstTestReview](OtherMarkdown1.png)  
 
 **Here is the JUnit Test failing with the first provided Markdown snippet.**
+- The other group's code does not work and goes into an infinite loop.
+- This occurs for all the tests, including previous tests.
 
 ### Snippet 2 Test
 ![OtherJUNIT2](junit2.png)
 ![SecondTestReview](OtherMarkdown2.png)  
 
 **Here is the JUnit Test failing with the second provided Markdown snippet.**
+- The other group's code does not work and goes into an infinite loop.
+- This occurs for all the tests, including previous tests.
 
 ### Snippet 3 Test
 ![OtherJUNIT3](junit3.png)
 ![ThirdTestReview](OtherMarkdown3.png) 
 
 **Here is the JUnit Test failing with the second provided Markdown snippet.**
+- The other group's code does not work and goes into an infinite loop.
+- This occurs for all the tests, including previous tests.
