@@ -8,21 +8,21 @@
 ## Snippets on My Repo  
 
 ### Snippet 1 Test
-![FirstTest](markdown1.PNG)  
+![FirstTest](markdown1.png)  
 
 **Here is the JUnit Test failing with the first provided Markdown snippet.**
 - This test fails because my Markdown Parser is designed to only catch links that begin with "https://" as valid links.
 - Lines 26-29 can simply be removed and the JUnit test should not fail.
 
 ### Snippet 2 Test
-![SecondTest](markdown2.PNG)  
+![SecondTest](markdown2.png)  
 
 **Here is the JUnit Test failing with the second provided Markdown snippet.**
 - This test fails because my Markdown Parser is designed to only catch links that begin with "https://" as valid links.
 - Lines 26-29 can simply be removed and the JUnit test should not fail.
 
 ### Snippet 3 Test
-![ThirdTest](markdown3.PNG) 
+![ThirdTest](markdown3.png) 
 
 **Here is the JUnit Test failing with the third provided Markdown snippet.**
 - This test fails because my Markdown Parser is designed to only catch links that begin with "https://" as valid links.
