@@ -3,3 +3,5 @@
 [Lab Report 1](Tutorial.md)
 
 [Lab Report 2](Week4.md)
+
+[Lab Report 4](LabReport4.md)
