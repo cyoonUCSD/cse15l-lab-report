@@ -8,6 +8,7 @@
 ## Snippets on My Repo  
 
 ### Snippet 1 Test
+![JUNIT1](junit1.png)
 ![FirstTest](markdown1.png)  
 
 **Here is the JUnit Test failing with the first provided Markdown snippet.**
@@ -15,6 +16,7 @@
 - Lines 26-29 can simply be removed and the JUnit test should not fail.
 
 ### Snippet 2 Test
+![JUNIT2](junit2.png)
 ![SecondTest](markdown2.png)  
 
 **Here is the JUnit Test failing with the second provided Markdown snippet.**
@@ -22,6 +24,7 @@
 - Lines 26-29 can simply be removed and the JUnit test should not fail.
 
 ### Snippet 3 Test
+![JUNIT3](junit3.png)
 ![ThirdTest](markdown3.png) 
 
 **Here is the JUnit Test failing with the third provided Markdown snippet.**
@@ -32,16 +35,19 @@
 - We need to write a code segment such that the code looks for a ")" that is on the same line as the rest of the url.
 
 ## Snippets on Reviewed Repo
+![OtherJUNIT1](junit1.png)
 ![FirstTestReview](OtherMarkdown1.png)  
 
 **Here is the JUnit Test failing with the first provided Markdown snippet.**
 
 ### Snippet 2 Test
+![OtherJUNIT2](junit2.png)
 ![SecondTestReview](OtherMarkdown2.png)  
 
 **Here is the JUnit Test failing with the second provided Markdown snippet.**
 
 ### Snippet 3 Test
+![OtherJUNIT3](junit3.png)
 ![ThirdTestReview](OtherMarkdown3.png) 
 
 **Here is the JUnit Test failing with the second provided Markdown snippet.**
